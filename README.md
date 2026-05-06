@@ -12,7 +12,7 @@
 
 **Fecha:** 06/05/2026
 
-**Descripción:** Se crearon las clases Person y PersonController, y se crearon metodos para ordenar por nombre, edad, y notas
+**Descripción:** Se crearon las clases Person y PersonController, y se crearon metodos para ordenar por nombre, edad, y notas.
 
 ---
 
